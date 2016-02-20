@@ -53,10 +53,10 @@ h1, h2 {
 
 h3::before{
 	content: url(images/rocks.jpg);
+	padding-right: 10px;
 }
 
 h3 {
-	padding: 10px;
 	color: rgb(69, 95,  39);
 	font-style: italic;
 	text-transform: uppercase;
